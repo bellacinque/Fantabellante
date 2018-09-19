@@ -4,14 +4,14 @@ Pasquale  |
 TOT       |                                                                                                         6
 
 
-Mirko     |
-          |
-TOT       |                                                                                                         0
+Mirko     | Vecino  9 | ----------  |
+          | Srna   -7 | Barzagli -2 |
+TOT       |         2 |          -2 |                                                                               0                           0
 
 
-Leonardo  | ---        0  |
-          | Dragowsky -2  |
-TOT       |           -2  |                                                                                         2                           0
+Leonardo  | ---        0  | Castro, Omeonga 11+3 |
+          | Dragowsky -2  | Joao Pedro       -13 |
+TOT       |           -2  |                    1 |                                                                  2                           1
 
 
 Andrea    | Strinic, Marchisio  5+5 | Padelli, Patric 1+2  | Marusic  10
