@@ -1,29 +1,33 @@
-                                                                                Svincoli senza cambi    Residuo punti dopo agosto     Punti residui attuali
+                                                                                                                       SV.                  R.D.A      R.A.
 Pasquale  |
           |
-TOT       |                                                                                                         6
+TOT       |                                                                                                                                   6
 
 
 Mirko     | Vecino  9 | ----------  |
           | Srna   -7 | Barzagli -2 |
-TOT       |         2 |          -2 |                                                                               0                           0
+TOT       |         2 |          -2 |                                                                                                         0          0
 
 
-Leonardo  | ---        0  | Castro, Omeonga 11+3 |
-          | Dragowsky -2  | Joao Pedro       -13 |
-TOT       |           -2  |                    1 |                                                                  2                           1
+Leonardo  | ---        0 | Castro, Omeonga 11+3 |                                                                   | Dragowsky 2 |
+          | Dragowsky -2 | Joao Pedro       -13 |                                                                   |             |
+TOT       |           -2 |                    1 |                                                                   |           2 |           2          3
 
 
 Andrea    | Strinic, Marchisio  5+5 | Padelli, Patric 1+2  | Marusic  10
           | Samir               -8  | Aina            -5   | Krunic  -10
-TOT       |                      2  |                 -2   |           0                                            0                           0
+TOT       |                      2  |                 -2   |           0                                                                      0          0
 
 
-Domenico  |
-          |
-TOT       |                                                                                                         0
+Domenico  | Pjaca   17 | Karsdorp 5 |											                                    | Strootman 11 |
+          | Defrel -21 | Dalbert  3 |                                                                               | De Rossi  -9 |
+TOT       |         -4 |          2 |                                                                               |            2 |          0          0
 
 
-Davide    | Izzo     10  | Rog        5  | Rasmussen  3
-          | Inglese -13  | Medeiros -12  | Dalbert   -3
-TOT       |          -3  |           -7  |            0                                                            10                           0
+Davide    | Izzo     10  | Rog        5  | Rasmussen  3                                                             | Medeiros 10 |
+          | Inglese -13  | Medeiros -12  | Dalbert   -3                                                             |             |
+TOT       |          -3  |           -7  |            0                                                             |          10 |          10          10
+
+SV    =	Svincoli senza cambi
+R.D.A = Punti residui dopo asta di precampionato
+R.A   =	Punti residui Attuali
