@@ -1,12 +1,12 @@
                                                                                                                        SV.                  R.D.A      R.A.
-Pasquale  | Faragò  4 | Jankto 11 |
-          | Malcuit 6 | Vecino 10 |
-TOT       |        -2 |         1 |                                                                                                           6          5
+Pasquale  | Faragò   4 | Jankto  11 |
+          | Malcuit -6 | Vecino -10 |
+TOT       |         -2 |          1 |                                                                                                         6          5
 
 
-Mirko     | Vecino  9 | ----------  | Pessina 4 |
-          | Srna   -7 | Barzagli -2 | Zaniolo 1 |
-TOT       |         2 |          -2 |         3 |                                                                                             0          3
+Mirko     | Vecino  9 | ----------  | Pessina  4 |
+          | Srna   -7 | Barzagli -2 | Zaniolo -1 |
+TOT       |         2 |          -2 |          3 |                                                                                            0          3
 
 
 Leonardo  | ---        0 | Castro, Omeonga 11+3 |                                                                   | Dragowsky 2 |
@@ -14,19 +14,19 @@ Leonardo  | ---        0 | Castro, Omeonga 11+3 |                               
 TOT       |           -2 |                    1 |                                                                   |           2 |           2          3
 
 
-Andrea    | Strinic, Marchisio  5+5 | Padelli, Patric 1+2  | Marusic  10
-          | Samir               -8  | Aina            -5   | Krunic  -10
-TOT       |                      2  |                 -2   |           0                                                                      0          0
+Andrea    | Strinic, Marchisio  5+5 | Padelli, Patric 1+2  | Marusic  10 | Biglia 9 |
+          | Samir               -8  | Aina            -5   | Krunic  -10 | Sensi  8 |
+TOT       |                      2  |                 -2   |           0 |       +1 |                                                         0          1
 
 
-Domenico  | Pjaca   17 | Karsdorp 5 | Caldara  9 | Cacciatore 6 |				                                    | Strootman 11 |
-          | Defrel -21 | Dalbert  3 | Tonelli 10 | Magnani    4 |                                                   | De Rossi  -9 |
-TOT       |         -4 |          2 |         -1 |            2 |                                                   |            2 |          0          1
+Domenico  | Pjaca   17 | Karsdorp 5 | Caldara   9 | Cacciatore  6 |				                                    | Strootman 11 |
+          | Defrel -21 | Dalbert -3 | Tonelli -10 | Magnani    -4 |                                                 | De Rossi  -9 |
+TOT       |         -4 |          2 |          -1 |             2 |                                                 |            2 |          0          1
 
 
-Davide    | Izzo     10  | Rog        5  | Rasmussen  3 | ----------- |                                             | Medeiros 10 |
-          | Inglese -13  | Medeiros -12  | Dalbert   -3 | Berenguer 6 |                                             |             |
-TOT       |          -3  |           -7  |            0 |          -6 |                                             |          10 |          10          4
+Davide    | Izzo     10  | Rog        5  | Rasmussen  3 | ------------ |                                            | Medeiros 10 |
+          | Inglese -13  | Medeiros -12  | Dalbert   -3 | Berenguer -6 |                                            |             |
+TOT       |          -3  |           -7  |            0 |           -6 |                                            |          10 |          10          4
 
 SV    =	Svincoli senza cambi
 R.D.A = Punti residui dopo asta di precampionato
